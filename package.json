@@ -1,0 +1,16 @@
+{
+  "name": "a4_23000349",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^29.1.0",
+    "mysql2": "^3.9.2",
+    "bcrypt": "^5.1.1"
+  }
+}
